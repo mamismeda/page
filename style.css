@@ -157,3 +157,18 @@ section{
     margin-left: 10px;
     border-radius: 6px;
 }
+.library{
+    padding: 50px;
+}
+.library h1{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 40px;
+    font-weight: 100;
+}
+.library p{
+    width: 400px;
+    margin: auto;
+    line-height: 30px;
+    text-align: center;
+}
