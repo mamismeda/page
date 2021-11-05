@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+header{
+    padding: 10px 100px;
+}
+.navi{
+    display: flex;
+  
+}
+.logo{
+    width: 95%;
+}
