@@ -255,3 +255,106 @@ section{
     width: 40px;
     height: 40px;
 }
+.team{
+    padding: 50px;
+}
+.team h1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+.team p{
+    text-align: center;
+    width: 500px;
+    font-size: 20px;
+    color: grey;
+    margin: auto;
+    line-height: 1.5;
+}
+.office{
+    width: 25%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    padding: 20px;
+}
+.office img{
+    width: 100%;
+    height: 250px;
+    filter: grayscale(1);
+}
+.office h2{
+    text-align: center;
+    color:grey;
+    font-size: 20px;
+    font-weight: 100;
+    width: 100%;
+    margin: 30px 0 20px 0;
+}
+.twit{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.twit img{
+    width: 40px;
+    height: 40px;
+    margin: 7px;
+}
+.office p{
+    font-size: 15px;
+    width: 200px;
+    margin: 20px 0;
+}
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding: 0 70px;
+}
+.color{
+    width: 25%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    padding: 20px;
+}
+.color img{
+    width: 100%;
+    height: 250px;
+}
+.under{
+    border-bottom: 6px solid rgb(255, 110, 0);
+}
+.color h2{
+    text-align: center;
+    color:grey;
+    font-size: 20px;
+    font-weight: 100;
+    width: 100%;
+    margin: 30px 0 20px 0;
+}
+.color p{
+    font-size: 15px;
+    width: 200px;
+    margin: 20px 0;
+}
+.meta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.meta img{
+    width: 40px;
+    height: 40px;
+    margin: 7px;
+}
