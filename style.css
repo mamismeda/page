@@ -189,6 +189,32 @@ section{
     height: 350px;
     padding: 10px;
 }
+.anim{
+    width: 33.33%;
+    border-radius: 10px;
+    height: 350px;
+    padding: 10px;
+    position: relative;
+}
+.metro{
+    position: absolute;
+    margin:130px 40px;
+    width: 300px;
+    height: 80px;
+}
+.metro h1{
+    font-size: 70px;
+    color: #fff; 
+    opacity: 0;
+}
+.metro:hover{
+    border: 3px solid rgb(255, 110, 0); 
+}
+.metro h1:hover{
+    font-size: 70px;
+    color: #fff; 
+    opacity: 5;
+}
 .photo img{
     width: 100%;
     height: 350px;
