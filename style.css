@@ -42,6 +42,7 @@ header{
 }
 .bi{
     color: #fff;
+    margin-left: 10px;
 }
 span{
     color:rgb(255, 110, 0);
@@ -151,14 +152,16 @@ section{
 }
 .inp input{
     width: 400px;
-    height: 30px;
+    height: 45px;
+    padding: 20px;
     border-radius: 6px;
 }
 .inp a{
     background-color:rgb(255, 110, 0);
-    padding: 5px 60px 5px 60px;
+    padding: 12px 60px 5px 60px;
     margin-left: 10px;
     border-radius: 6px;
+    height: 45px;
 }
 .library{
     padding: 50px 150px;
@@ -455,7 +458,7 @@ section{
     width: 200px;
     height: 40px;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 12px;
 }
 .copy{
     background-color: rgb(66, 65, 65);
